@@ -1,0 +1,18 @@
+.myBox {
+	width: 50px;
+	height: 50px;
+	/* padding-top: 10px;
+	padding-left: 30px;
+	padding-right: 190px;
+	padding-bottom: 50px; */
+
+    padding: 10px 30px 190px 50px;
+
+  background: rgb(189, 189, 189);
+	/* background-image: url(https://aspcodeprod.blob.core.windows.net/school-dev/greg-rosenke-6QnEf_b47eA-unsplash.jpg);
+	background-position-x: 100px;
+	background-repeat: no-repeat; */
+
+    background: url(https://aspcodeprod.blob.core.windows.net/school-dev/greg-rosenke-6QnEf_b47eA-unsplash.jpg) 100px no-repeat;
+	background-size: contain;
+}
